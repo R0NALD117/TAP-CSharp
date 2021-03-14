@@ -1,0 +1,10 @@
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\TAP C#\Ejercicio2\obj\Debug\Ejercicio2.pdb
